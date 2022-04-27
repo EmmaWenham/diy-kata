@@ -1,3 +1,4 @@
-const joinNames = namesObj => {};
-
-module.exports = joinNames;
+// const joinNames = namesObj => {};
+// let result ;
+// result = namesObj.map()
+// module.exports = joinNames;
